@@ -1,8 +1,14 @@
 ---
 title: "Workshop Recording: Introduction to Network Analysis and Visualization Using Gephi (Nov. 2, 2021)"
 layout: "home"
-description: ""
+description: "This page provides a video recording of an introductory workshop on using Gephi for network analysis and visualization."
 permalink: "/"  #! Remove this if not the homepage
+staff:
+ - name: Kelly Schultz
+   link: https://library.utoronto.ca/staff/kelly-schultz
+maintainer:
+ - name: Kelly Schultz
+   link: https://library.utoronto.ca/staff/kelly-schultz
 ---
 
 # Workshop Recording: Introduction to Network Analysis and Visualization Using Gephi (Nov. 2, 2021)
@@ -19,6 +25,8 @@ This workshop is designed for those new to networks and Gephi. There are no prer
 
 Gephi is an open\-source program that can be [downloaded for Windows, Mac OS, and Linux](https://gephi.org/users/download/).
 
-[**Recording \- 1:45:54**](https://play.library.utoronto.ca/watch/aeb2d686e5abe625072eb1b85e23846c) **\&**[**Workshop Files**](https://maps.library.utoronto.ca/workshops/GephiOnline/WorkshopFiles.zip)
+[**Recording \- 1:45:54**](https://play.library.utoronto.ca/watch/aeb2d686e5abe625072eb1b85e23846c) **&** [**Workshop Files**](https://maps.library.utoronto.ca/workshops/GephiOnline/WorkshopFiles.zip)
 
-Technique: [Data Visualization](/technique/data-visualization) \| Tools: [Gephi](/tools/gephi)**Date Created:** 2025\-01\-28**Updated:** 2025\-02\-10
+Technique: [Data Visualization](/technique/data-visualization) \| Tools: [Gephi](/tools/gephi)
+
+**Date Created:** 2025\-01\-28 **Updated:** 2025\-02\-10
