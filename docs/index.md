@@ -4,11 +4,11 @@ layout: "home"
 description: "This page provides a video recording of an introductory workshop on using Gephi for network analysis and visualization."
 permalink: "/"  #! Remove this if not the homepage
 staff:
- - name: Kelly Schultz
-   link: https://library.utoronto.ca/staff/kelly-schultz
+    - name: Kelly Schultz
+      link: https://library.utoronto.ca/staff/kelly-schultz
 maintainer:
- - name: Kelly Schultz
-   link: https://library.utoronto.ca/staff/kelly-schultz
+    - name: Kelly Schultz
+      link: https://library.utoronto.ca/staff/kelly-schultz
 created_date: 2025-01-28
 ---
 
@@ -31,4 +31,4 @@ Gephi is an open-source program that can be [downloaded for Windows, Mac OS, and
 
 [**Workshop Files**](https://maps.library.utoronto.ca/workshops/GephiOnline/WorkshopFiles.zip)
 
-**Technique:** [Data Visualization](https://mdlutoronto.github.io/tutorials-search/?technique=Data+Visualization) | **Tools:** [Gephi](https://mdlutoronto.github.io/tutorials-search/?tool=Gephi)
+**Technique:** [Data Visualization](https://mdlutoronto.github.io/tutorials-search/?technique=Data+Visualization) \| **Tools:** [Gephi](https://mdlutoronto.github.io/tutorials-search/?tool=Gephi)
