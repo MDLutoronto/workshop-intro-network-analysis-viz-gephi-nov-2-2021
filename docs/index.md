@@ -27,6 +27,6 @@ Gephi is an open\-source program that can be [downloaded for Windows, Mac OS, an
 
 [**Recording \- 1:45:54**](https://play.library.utoronto.ca/watch/aeb2d686e5abe625072eb1b85e23846c) **&** [**Workshop Files**](https://maps.library.utoronto.ca/workshops/GephiOnline/WorkshopFiles.zip)
 
-Technique: [Data Visualization](/technique/data-visualization) \| Tools: [Gephi](/tools/gephi)
+**Technique:** [Data Visualization](https://mdlutoronto.github.io/tutorials-search/?technique=Data+Visualization) \| **Tools:** [Gephi](https://mdlutoronto.github.io/tutorials-search/?tool=Gephi)
 
 **Date Created:** 2025\-01\-28 **Updated:** 2025\-02\-10
